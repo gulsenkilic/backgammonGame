@@ -1,0 +1,15 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(109,32): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(110,37): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(113,33): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(114,38): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(336,10): warning C4101: 's2': unreferenced local variable
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(564,8): warning C4101: 's2': unreferenced local variable
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(882,12): warning C4101: 's2': unreferenced local variable
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(1575,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(1599,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(3014,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(315): warning C4715: 'cnt1': not all control paths return a value
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(1693): warning C4715: 'open': not all control paths return a value
+C:\Users\Legion\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(2780): warning C4715: 'finish': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\Legion\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
